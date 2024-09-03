@@ -1,0 +1,4 @@
+app_name,URL,description,image,certified_way,developer
+DOOM,https://aristotle-metadata-enterprises.github.io/Doom-App/,This app lets you play Doom on the Aristotle appstore,https://aristotle-metadata-enterprises.github.io/Doom-App/DOOM.png,aristotle,Shir
+Test API App,https://sophiansl.github.io/test-app/,This is a simple app for tesing purpose.,https://sophiansl.github.io/test-app/image.png,verified,Sophia
+Argus 3D Graph,https://aristotle-metadata-enterprises.github.io/argus-3d-graph/ ,Visualisation tool for Data Set Specifications and Distributions.,https://aristotle-metadata-enterprises.github.io/argus-3d-graph/image.png,aristotle,Sophia
